@@ -54,6 +54,9 @@ Routes begin with /api and include:
 - POST /api/thoughts/:thoughtId/reactions
 - DELETE /api/thoughts/:thoughtId/reactions/:reactionId
 
+Additionally, here is walkthrough video: 
+https://github.com/user-attachments/assets/530420b3-e7ed-4a73-a97d-4a69033e65f3
+
 ## Contributing
 At this time, contributions to this project are not accepted. Please feel free to fork the repository for personal use or modifications. Any pull requests or issues will not be reviewed or merged.
 
