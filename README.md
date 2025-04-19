@@ -1,6 +1,6 @@
 # Social Network Web Application API
 
-## Lisence Badge
+## License Badge
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
@@ -10,7 +10,6 @@ This project is a backend API for a social network application where users can c
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
